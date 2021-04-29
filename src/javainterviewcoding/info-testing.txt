@@ -1,0 +1,117 @@
+Testing are two types defined  1.Functional Testing 2. Non Functional Testing
+                                      
+                                 *1.Functional Testing*
+                               ----------------------------
+               
+
+1.Functional Testing:Functional testing is a quality assurance process and a type of black-box testing that bases its test cases on the specifications of the 
+software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered
+
+
+2.Smoke testing:Smoke Testing is a kind of Software Testing performed after software build to ascertain that the critical functionalities of the program are working fine.
+ It is executed "before" any detailed functional or regression tests are executed on the software build. 
+
+3.Sanity Testing:Sanity testing is a kind of Software Testing performed after receiving a software build, with minor changes in code, or functionality, to ascertain that
+
+ the bugs have been fixed and no further issues are introduced due to these changes.
+ The goal is to determine that the proposed functionality works roughly as expected. 
+If sanity test fails, the build is rejected to save the time and costs involved in a more rigorous testing.
+
+4.Regression Testing:Regression Testing is defined as a type of software testing to confirm that a recent program or code change has not adversely affected existing 
+features. Regression Testing is nothing but a full or partial selection of already executed test cases which are re-executed to ensure existing functionalities work
+ fine.
+
+5.black box Testing:BLACK BOX TESTING, also known as Behavioral Testing, is a software testing method in which the internal structure/design/implementation of 
+the item being tested is not known to the tester. These tests can be functional or non-functional, though usually functional.
+
+6.Whiteboxtesting:-WHITE BOX TESTING (also known as Clear Box Testing, Open Box Testing, Glass Box Testing, Transparent Box Testing, Code-Based Testing or Structural 
+Testing) is a software testing method in which the internal structure/design/implementation of the item being tested is known to the tester.
+
+7.unit testing:-UNIT TESTING is a level of software testing where individual units/ components of a software are tested. 
+The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. It usually has one or a few 
+inputs and usually a single output.
+
+8.GUI Testing:GUI testing is defined as the process of testing the system's Graphical User Interface of the Application Under Test. 
+GUI testing involves checking the screens with the controls like menus, buttons, icons, and all types of bars - toolbar, menu bar, dialog boxes, and windows, etc.
+
+9.Gray-box testing:- (International English spelling: grey-box testing) is a combination of white-box testing and black-box testing. 
+The aim of this testing is to search for the defects if any due to improper structure or improper usage of applications.[1][2
+
+10.Monkey Testing:- is defined as the kind of testing that deals with random inputsIn Monkey Testing the tester (sometimes developer too) is considered as the 'Monkey'
+If a monkey uses a computer he will randomly perform any task on the system out of his understanding
+Just like the tester will apply random test cases on the system under test to find bugs/errors without predefining any test case
+
+11.GorillaTesting:-Gorilla Testing is a Software testing technique wherein a module of the program is repeatedly tested to ensure that it is working correctly and
+ there is no bug in that module.
+A module can be tested over a hundred times, and in the same manner. So, Gorilla Testing is also known as "Frustrating Testing".
+
+12.End to End testing:-
+End-to-end testing is a technique used to test whether the flow of an application right from start to finish is behaving as expected.
+ The purpose of performing end-to-end testing is to identify system dependencies and to ensure that the data integrity is maintained between various
+ system components and systems.
+13.Ad hoc testing:-is a commonly used term for software testing performed without planning and documentation, but can be applied to early scientific 
+experimental studies. The tests are intended to be run only once, unless a defect is discovered. Ad hoc testing is the least formal test method
+
+14.DataBasetesting:-
+Database Testing is checking the schema, tables, triggers, etc. of the database under test. 
+It may involve creating complex queries to load/stress test the database and check its responsiveness. It Checks data integrity and consistency.
+
+15.UserAcceptance Testing(UAT):-
+User Acceptance is defined as a type of testing performed by the Client to certify the system with respect to the requirements that was agreed upon.
+ This testing happens in the final phase of testing before moving the software application to the Market or Production environment.
+
+16)alpha Testing:-Alpha Testing is a type of software testing performed to identify bugs before releasing the product to real users or to the public.
+ Alpha Testing is one of the user acceptance testing
+
+17)Beta Testing:-Beta Testing is performed by real users of the software application in a real environment. Beta testing is one of the type of User Acceptance Testing.
+
+   
+
+
+
+                                         2. Non-Functional Testing
+                                        *------------------------*
+
+
+
+
+2.Non-Functional Testing:-
+Non-functional testing is defined as a type of Software testing to check non-functional aspects (performance, usability, reliability, etc)
+ of a software application. It is designed to test the readiness of a system as per nonfunctional parameters which are never addressed by functional testing.
+An excellent example of non-functional test would be to check how many people can simultaneously login into a software.
+Non-functional testing is equally important as functional testing and affects client satisfaction.
+
+1)Performance Testing:-
+Performance Testing is defined as a type of software testing to ensure software applications will perform well under their expected workload.
+
+performance  test tools are 1.Hp LoadRunner 2.Jmeter
+
+The focus of Performance Testing is checking a software program's
+Speed - Determines whether the application responds quickly
+Scalability - Determines maximum user load the software application can handle.
+Stability - Determines if the application is stable under varying loads
+
+
+
+2.Load Testing:-Load testing is a kind of Performance Testing which determines a system's performance under real-life load conditions. This
+ testing helps determine how the application behaves when multiple users access it simultaneously.
+performance  test tools are 1.Hp LoadRunner
+
+
+3.volume Testing:-
+Volume testing is defined as a type of Software Testing, where the software is subjected to a huge volume of data.
+ It is also referred to as flood testing. Volume testing is done to analyze the system performance by increasing the volume of data in the database.
+
+4.Security Testing:-
+Security Testing is defined as a type of Software Testing that ensures software systems and applications are free from any vulnerabilities,
+ threats, risks that may cause a big loss. Security testing of any system is about finding all possible loopholes and weaknesses of the 
+system which might result into a loss of information, revenue, repute at the hands of the employees or outsiders of the Organization.
+
+
+
+
+
+
+
+
+
