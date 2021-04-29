@@ -1,6 +1,6 @@
 package Interface;
 
-//An interface is a completely "abstract class" that is used to group related methods with empty bodies: yes
+//An interface is a completely "abstract class" that is used to group related methods with empty bodies: yes am done
 
 //The interface in Java is a mechanism to achieve abstraction. There can be only abstract methods in the Java interface, not method body. 
 //It is used to achieve abstraction and multiple inheritance in Java.
