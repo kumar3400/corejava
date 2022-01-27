@@ -11,12 +11,20 @@ public  class ClassA {
 	// private void display() {(private for private2 class)
   public void display() {
 		
-		int no =10;
+		int number =10;
 		
-		System.out.println("java acess modifiers private the int number is "+no);
+		System.out.println("java acess modifiers private the int number is "+number);
 		
-		System.out.println(no);
+		
+ 
+		System.out.println("java acess modifiers private the int number is "+number);
+		
+		System.out.println(number);
+ 
    }
+  
+  
+  
    
    
 	
