@@ -14,6 +14,9 @@ public  class ClassA {
 		int number =10;
 		
 		System.out.println("java acess modifiers private the int number is "+number);
+		
+		
+		
    }
   
   
