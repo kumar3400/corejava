@@ -3,6 +3,8 @@ package javacollections;
 import java.util.Iterator;
 import java.util.LinkedList;
 
+import Accessmodifiers.ClassA;
+
 
 
 /*
@@ -19,6 +21,8 @@ import java.util.LinkedList;
 
 public class linkedlist {
 	
+	
+ 
 	
 	public static void main(String args[]) {
 		
