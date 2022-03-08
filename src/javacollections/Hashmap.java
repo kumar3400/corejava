@@ -9,6 +9,9 @@ import java.util.HashMap;
 
 public class Hashmap {
 	
+	private static final int HashMap = 0;
+	private static final int String = 0;
+
 	public static void main(String args[]) {
 		
 		HashMap<String,Integer>  map =new HashMap<String,Integer>();
@@ -37,7 +40,24 @@ public class Hashmap {
 		System.out.println(karnatakacapital);
 		System.out.println(keralacapital);
 		
-
+		
+		
+		
+		
+		//String  map1 =  DataClass.getConfigData();
+		
+		 
+		
+	 
+		HashMap<String, String> map1 = DataClass.getTestData();
+		
+		String username =map1.get("username");
+		
+		System.out.println(username);
+	
+		 
+		
+		
 		
 
 
